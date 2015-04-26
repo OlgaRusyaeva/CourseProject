@@ -12,7 +12,7 @@ The order is preserved.
 
 Each record has:
 
-"Name" - Description - Range of allowed values
+"Name" - Description - Allowable values
 
 ##Data dictionary
 
